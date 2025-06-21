@@ -1,7 +1,7 @@
 id = "mcp-server-mui"
 name = "Material UI MCP Server"
 description = "A Zed extension for the documentation-retrieving Material UI MCP Server."
-version = "0.2.0"
+version = "0.3.0"
 schema_version = 1
 authors = ["Danilo Leal <daniloleal09@gmail.com>"]
 repository = "https://github.com/danilo-leal/zed-mui-mcp-server"
