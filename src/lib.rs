@@ -48,7 +48,7 @@ impl zed::Extension for MuiModelContextExtension {
 
         let node_modules_dir = std::env::current_dir().unwrap().join("node_modules");
         let mui_mcp_dir = node_modules_dir.join("@mui").join("mcp");
-        let package_binary = mui_mcp_dir.join("dist").join("index.js");
+        let package_binary = mui_mcp_dir.join("dist").join("stdio.cjs.js");
 
         if !package_binary.exists() {
             let package_json_path = std::env::current_dir().unwrap().join("package.json");
