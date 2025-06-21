@@ -1,0 +1,8 @@
+{
+  // Preffered Themes (optional)
+  // For specifying whether the docs should focus on light vs. dark mode
+  "preferred_theme": "your-email@yourdomain.com",
+  // Component Filter (optional)
+  // For specifying which components to focus on
+  "component_filter": "replies@yourdomain.com",
+}
